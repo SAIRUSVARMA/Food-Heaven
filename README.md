@@ -1,246 +1,115 @@
-# ❤️ Namaste React 🙏
+# Food Heaven Website
+Built a website similar to Swiggy.
 
-### _A hands-on journey through the [Namaste React Live Course](https://namastedev.com/learn/namaste-react?_aff=946684804112) by [Akshay Saini](https://www.linkedin.com/in/akshaymarch7/), Founder of [NamasteDev](https://namastedev.com/?_aff=946684804112). This repository contains assignments, notes, and source code from the course._
+### Home Page
 
-- [🚀 _Live Project Demo_ 😍](https://mern-todofy.netlify.app/)
-
-### 💖 This Repository was trending on [Github](https://drive.google.com/file/d/1JsBAa-DXeGIvJ_xIaYjjZ5uc3z4XV8Tz/view) 🔥
-
-## 🚀 About the Project
-
-This repository is a curated collection of assignments, handwritten/digital notes, and source code from the Namaste React Live Course. It documents the evolution of a React developer from the basics to building production-ready apps like [FoodFire 🍔](https://foodfire-app.netlify.app/).
-
-> 💡 Bonus: To fix CORS issues in FoodFire, check out the [FoodFire Server](https://github.com/chetannada/FoodFire-Server) with a custom API endpoint: `https://foodfire.onrender.com`.
-
-## 🛠️ Tech Stack
-
-- ⚛️ React.js: A JavaScript library for building the user interface.
-- 🖌️ HTML & CSS: For structuring and styling the application.
-- 📦 Parcel.js: zero configuration build tool for the web.
-
-## 🎻 Prerequisites
-
-Before getting started with the Project, you should have a basic understanding of React.js, JavaScript, HTML and CSS.
+<img width="1920" height="1080" alt="Screenshot 2025-09-10 024724" src="https://github.com/user-attachments/assets/f1ab3252-d099-4c31-9c74-409ebe12159c" />
 
 
-## 🌱 Project Structure
+### About Page
 
-```bash
-Namaste-React/
-├── Chapter 01 - Inception/
-│   ├── Assignment.md
-│   ├── Theory/
-│   └── Coding/
-│       ├── App.js
-│       └── index.css
-├── Chapter 02 - Igniting our App/
-├── Chapter 03 - Laying the Foundation/
-├── Chapter 04 - Talk is Cheap, show me the code/
-├── Chapter 05 - Let's get Hooked!/
-├── Chapter 06 - Exploring the world/
-├── Chapter 07 - Finding the Path/
-├── Chapter 08 - Let's get Classy/
-├── Chapter 09 - Optimizing our App/
-├── public/
-│   ├── images/
-├── index.html
-└── package.json
-```
-
-Each chapter includes:
-
-- 📘 Assignments
-- 📖 Theory solutions
-- 💻 Source code
-- 📟 Digital notes
-- 📝 Handwritten notes
-
-## 📚 [_Chapter 01 - Inception_](./Chapter%2001%20-%20Inception/) (Date: 24-12-2022)
-
-- 📘 [_Assignment_](./Chapter%2001%20-%20Inception/Assignment.md)
-- 📖 [_Theory Assignment Solution_](./Chapter%2001%20-%20Inception/Theory/Session1-Theory.md)
-- 💻 [_Source Code_](./Chapter%2001%20-%20Inception/Coding/)
-- 📟📝 _Digital and Handwritten Notes_
-  - 📟 [_Digital Notes of Live Class_](https://bit.ly/Namaste-React-Digital-Chapter01) `Credit` - [Arpan Kesh](https://www.linkedin.com/in/arpan-kesh-687740194/)
-  - 📝[_Hand Written Notes of Live Class_](https://bit.ly/Namaste-React-Chapter01) `Credit - Ashraya KK`
-
-## 📚 [_Chapter 02 - Igniting our App_](./Chapter%2002%20-%20Igniting%20our%20App/) (Date: 31-12-2022)
-
-- 📘 [_Assignment_](./Chapter%2002%20-%20Igniting%20our%20App/Assignment.md)
-- 📖 [_Theory Assignment Solution_](./Chapter%2002%20-%20Igniting%20our%20App/Theory/Session%202%20Theory.md)
-- 💻 [_Source Code_](./Chapter%2002%20-%20Igniting%20our%20App/Coding/)
-- 📟📝 _Digital and Handwritten Notes_
-  - 📟 [_Digital Notes of Live Class_](https://bit.ly/Namaste-React-Digital-Chapter02) `Credit` - [Arpan Kesh](https://www.linkedin.com/in/arpan-kesh-687740194/)
-  - 📝 [_Hand Written Notes of Live Class_](https://bit.ly/Namaste-React-Chapter02) `Credit - Ashraya KK`
-
-## 📚 [_Chapter 03 - Laying the Foundation_](./Chapter%2003%20-%20Laying%20the%20Foundation/) (Date: 01-01-2023)
-
-- 📘 [_Assignment_](./Chapter%2003%20-%20Laying%20the%20Foundation/Assignment.md)
-- 📖 [_Theory Assignment Solution_](./Chapter%2003%20-%20Laying%20the%20Foundation/Theory/Session%203%20Theory.md)
-- 💻 [_Source Code_](./Chapter%2003%20-%20Laying%20the%20Foundation/Coding/)
-- 📟📝 _Digital and Handwritten Notes_
-  - 📟 [_Digital Notes of Live Class_](https://bit.ly/Namaste-React-Digital-Chapter03) `Credit` - [Arpan Kesh](https://www.linkedin.com/in/arpan-kesh-687740194/)
-  - 📝 [_Hand Written Notes of Live Class_](https://bit.ly/Namaste-React-Chapter03) `Credit - Ashraya KK`
-- [🚀 Live Demo 😍](https://foodfire-chapter03.netlify.app/)
-
-## 📚 [_Chapter 04 - Talk is Cheap, show me the code_](./Chapter%2004%20-%20Talk%20is%20Cheap%2C%20show%20me%20the%20code/) (Date: 07-01-2023)
-
-- 📘 [_Assignment_](./Chapter%2004%20-%20Talk%20is%20Cheap%2C%20show%20me%20the%20code/Assignment.md)
-- 📖 [_Theory Assignment Solution_](./Chapter%2004%20-%20Talk%20is%20Cheap%2C%20show%20me%20the%20code/Theory/Session%204%20Theory.md)
-- 💻 [_Source Code_](./Chapter%2004%20-%20Talk%20is%20Cheap%2C%20show%20me%20the%20code/Coding/)
-- 📟📝 _Digital and Handwritten Notes_
-  - 📟 [_Digital Notes of Live Class_](https://bit.ly/Namaste-React-Digital-Chapter04) `Credit` - [Arpan Kesh](https://www.linkedin.com/in/arpan-kesh-687740194/)
-  - 📝 [_Hand Written Notes of Live Class_](https://bit.ly/Namaste-React-Chapter04) `Credit - Ashraya KK`
-- [🚀 Live Demo 😍](https://foodfire-chapter04.netlify.app/)
-
-## 📚 [_Chapter 05 - Let's get Hooked!_](./Chapter%2005%20-%20Let's%20get%20Hooked!/) (Date: 08-01-2023)
-
-- 📘 [_Assignment_](./Chapter%2005%20-%20Let's%20get%20Hooked!/Assignment.md)
-- 📖 [_Theory Assignment Solution_](./Chapter%2005%20-%20Let's%20get%20Hooked!/Theory/Session%205%20Theory.md)
-- 💻 [_Source Code_](./Chapter%2005%20-%20Let's%20get%20Hooked!/Coding/)
-- 📟📝 _Digital and Handwritten Notes_
-  - 📟 [_Digital Notes of Live Class_](https://bit.ly/Namaste-React-Digital-Chapter05) `Credit` - [Arpan Kesh](https://www.linkedin.com/in/arpan-kesh-687740194/)
-  - 📝 [_Hand Written Notes of Live Class_](https://bit.ly/Namaste-React-Chapter05) `Credit - Ashraya KK`
-- [🚀 Live Demo 😍](https://foodfire-chapter05.netlify.app/)
-
-## 📚 [_Chapter 06 - Exploring the world_](./Chapter%2006%20-%20Exploring%20the%20world/) (Date: 14-01-2023)
-
-- 📘 [_Assignment_](./Chapter%2006%20-%20Exploring%20the%20world/Assignment.md)
-- 📖 [_Theory Assignment Solution_](./Chapter%2006%20-%20Exploring%20the%20world/Theory/Session%206%20Theory.md)
-- 💻 [_Source Code_](./Chapter%2006%20-%20Exploring%20the%20world/Coding/)
-- 📟📝 _Digital and Handwritten Notes_
-  - 📟 [_Digital Notes of Live Class_](https://bit.ly/Namaste-React-Digital-Chapter06) `Credit` - [Arpan Kesh](https://www.linkedin.com/in/arpan-kesh-687740194/)
-  - 📝 [_Hand Written Notes of Live Class_](https://bit.ly/Namaste-React-Chapter06) `Credit - Ashraya KK`
-- [🚀 Live Demo 😍](https://foodfire-chapter06.netlify.app/)
-
-## 📚 [_Chapter 07 - Finding the Path_](./Chapter%2007%20-%20Finding%20the%20Path/) (Date: 15-01-2023)
-
-- 📘 [_Assignment_](./Chapter%2007%20-%20Finding%20the%20Path/Assignment.md)
-- 📖 [_Theory Assignment Solution_](./Chapter%2007%20-%20Finding%20the%20Path/Theory/Session%207%20Theory.md)
-- 💻 [_Source Code_](./Chapter%2007%20-%20Finding%20the%20Path/Coding/)
-- 📟📝 _Digital and Handwritten Notes_
-  - 📟 [_Digital Notes of Live Class_](https://bit.ly/Namaste-React-Digital-Chapter07) `Credit` - [Arpan Kesh](https://www.linkedin.com/in/arpan-kesh-687740194/)
-  - 📝 [_Hand Written Notes of Live Class_](https://bit.ly/Namaste-React-Chapter07) `Credit - Ashraya KK`
-- [🚀 Live Demo 😍](https://foodfire-chapter07.netlify.app/)
-
-## 📚 [_Chapter 08 - Let's get Classy_](./Chapter%2008%20-%20Let's%20get%20Classy/) (Date: 21-01-2023)
-
-- 📘 [_Assignment_](./Chapter%2008%20-%20Let's%20get%20Classy/Assignment.md)
-- 📖 [_Theory Assignment Solution_](./Chapter%2008%20-%20Let's%20get%20Classy/Theory/Session%208%20Theory.md)
-- 💻 [_Source Code_](./Chapter%2008%20-%20Let's%20get%20Classy/Coding/)
-- 📟📝 _Digital and Handwritten Notes_
-  - 📟 [_Digital Notes of Live Class_](https://bit.ly/Namaste-React-Digital-Chapter08) `Credit` - [Arpan Kesh](https://www.linkedin.com/in/arpan-kesh-687740194/)
-  - 📝 [_Hand Written Notes of Live Class_](https://bit.ly/Namaste-React-Chapter08) `Credit - Ashraya KK`
-- [🚀 Live Demo 😍](https://foodfire-chapter08.netlify.app/)
-
-## 📚 [_Chapter 09 - Optimizing our App_](./Chapter%2009%20-%20Optimizing%20our%20App/) (Date: 22-01-2023)
-
-- 📘 [_Assignment_](./Chapter%2009%20-%20Optimizing%20our%20App/Assignment.md)
-- 📖 [_Theory Assignment Solution_](./Chapter%2009%20-%20Optimizing%20our%20App/Theory/Session%209%20Theory.md)
-- 💻 [_Source Code_](./Chapter%2009%20-%20Optimizing%20our%20App/Coding/)
-- 📟📝 _Digital and Handwritten Notes_
-  - 📟 [_Digital Notes of Live Class_](https://bit.ly/Namaste-React-Digital-Chapter09) `Credit` - [Arpan Kesh](https://www.linkedin.com/in/arpan-kesh-687740194/)
-  - 📝 [_Hand Written Notes of Live Class_](https://bit.ly/Namaste-React-Chapter09) `Credit - Ashraya KK`
-- [🚀 Live Demo 😍](https://foodfire-chapter09.netlify.app/)
+<img width="1920" height="1080" alt="Screenshot 2025-09-10 024800" src="https://github.com/user-attachments/assets/8005f6e8-e61c-4983-be36-abc624b93af9" />
 
 
-## 🔥 Clone this Repository
+### Contact Page
 
-You need to write the following commands on the terminal screen(in vscode) so that you can run this project locally.
-
-```bash
-  git clone "https://github.com/chetannada/Namaste-React.git"
-```
-
-Go to the project directory
-
-```bash
-  cd Namaste-React
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Set up environment variables:
-
-    * .env - environment variables for this project to run in development environment (fill with actual values for environment variables)
-
-Run the application:
-
-```bash
-  npm run start
-```
-
-The application will now be running on `http://localhost:3000`. If you want to Fork repository and want to run locally, follow this guidelines [Fork and Clone Github Repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
-
-## ✏️ Contributing
-
-This is an Open-Source repository, and contributions are always welcome! If you find an issue, please create a new issue under the "Issues" section. To contribute code, fork the repository and submit a pull request. Your contributions will help make this a valuable resource for the community!
-
-## ✨ Contributors
-
-Thanks goes to these wonderful people 🙏
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/chetannada/"><img src="https://avatars.githubusercontent.com/u/83969719?v=4?s=100" width="100px;" alt="Chetan Nada"/><br /><sub><b>Chetan Nada</b></sub></a><br /><a href="https://github.com/chetannada/Namaste-React/commits?author=chetannada" title="Code">💻</a> <a href="#data-chetannada" title="Data">🔣</a> <a href="#design-chetannada" title="Design">🎨</a> <a href="#research-chetannada" title="Research">🔬</a> <a href="https://github.com/chetannada/Namaste-React/commits?author=chetannada" title="Documentation">📖</a> <a href="https://github.com/chetannada/Namaste-React/pulls?q=is%3Apr+reviewed-by%3Achetannada" title="Reviewed Pull Requests">👀</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/akshaynarisetti"><img src="https://avatars.githubusercontent.com/u/58532023?v=4?s=100" width="100px;" alt="Akshay Narisetti"/><br /><sub><b>Akshay Narisetti</b></sub></a><br /><a href="https://github.com/chetannada/Namaste-React/commits?author=akshaynarisetti" title="Code">💻</a> <a href="https://github.com/chetannada/Namaste-React/pulls?q=is%3Apr+reviewed-by%3Aakshaynarisetti" title="Reviewed Pull Requests">👀</a> <a href="#tool-akshaynarisetti" title="Tools">🔧</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/chinmay021"><img src="https://avatars.githubusercontent.com/u/37647219?v=4?s=100" width="100px;" alt="Chinmay Kumar"/><br /><sub><b>Chinmay Kumar</b></sub></a><br /><a href="https://github.com/chetannada/Namaste-React/commits?author=chinmay021" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/arpankesh"><img src="https://avatars.githubusercontent.com/u/62733152?v=4?s=100" width="100px;" alt="Arpan Kesh"/><br /><sub><b>Arpan Kesh</b></sub></a><br /><a href="https://github.com/chetannada/Namaste-React/commits?author=arpankesh" title="Documentation">📖</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/danishagarwal"><img src="https://avatars.githubusercontent.com/u/81150631?v=4?s=100" width="100px;" alt="Danish Agarwal"/><br /><sub><b>Danish Agarwal</b></sub></a><br /><a href="https://github.com/chetannada/Namaste-React/commits?author=danishagarwal" title="Documentation">📖</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="http://www.buffercode.in"><img src="https://avatars.githubusercontent.com/u/15323217?v=4?s=100" width="100px;" alt="Parveen Kumar"/><br /><sub><b>Parveen Kumar</b></sub></a><br /><a href="https://github.com/chetannada/Namaste-React/commits?author=Praveent696" title="Tests">⚠️</a> <a href="https://github.com/chetannada/Namaste-React/commits?author=Praveent696" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/mkvmkverma/"><img src="https://avatars.githubusercontent.com/u/16443031?v=4?s=100" width="100px;" alt="Manish Kumar Verma"/><br /><sub><b>Manish Kumar Verma</b></sub></a><br /><a href="https://github.com/chetannada/Namaste-React/commits?author=mkv-mkverma" title="Documentation">📖</a></td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/chandrabhanusonu"><img src="https://avatars.githubusercontent.com/u/72381521?v=4?s=100" width="100px;" alt="Sonu Singh Rajput"/><br /><sub><b>Sonu Singh Rajput</b></sub></a><br /><a href="https://github.com/chetannada/Namaste-React/commits?author=chandrabhanusonu" title="Documentation">📖</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/priyansh70"><img src="https://avatars.githubusercontent.com/u/93965871?v=4?s=100" width="100px;" alt="Priyansh Patel"/><br /><sub><b>Priyansh Patel</b></sub></a><br /><a href="https://github.com/chetannada/Namaste-React/commits?author=priyansh70" title="Code">💻</a> <a href="https://github.com/chetannada/Namaste-React/commits?author=priyansh70" title="Documentation">📖</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Zack-Dx"><img src="https://avatars.githubusercontent.com/u/105835098?v=4?s=100" width="100px;" alt="THEALAN"/><br /><sub><b>THEALAN</b></sub></a><br /><a href="https://github.com/chetannada/Namaste-React/commits?author=Zack-Dx" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Ravi02205"><img src="https://avatars.githubusercontent.com/u/81222901?v=4?s=100" width="100px;" alt="Ravi Panchal"/><br /><sub><b>Ravi Panchal</b></sub></a><br /><a href="https://github.com/chetannada/Namaste-React/commits?author=Ravi02205" title="Code">💻</a> <a href="https://github.com/chetannada/Namaste-React/commits?author=Ravi02205" title="Documentation">📖</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ORCUSio"><img src="https://avatars.githubusercontent.com/u/94834734?v=4?s=100" width="100px;" alt="ORCUSio"/><br /><sub><b>ORCUSio</b></sub></a><br /><a href="https://github.com/chetannada/Namaste-React/commits?author=ORCUSio" title="Documentation">📖</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="http://subhamprasad.in"><img src="https://avatars.githubusercontent.com/u/68709992?v=4?s=100" width="100px;" alt="subham-prasad"/><br /><sub><b>subham-prasad</b></sub></a><br /><a href="https://github.com/chetannada/Namaste-React/commits?author=subham-prasad" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://sameer69.netlify.app"><img src="https://avatars.githubusercontent.com/u/76611058?v=4?s=100" width="100px;" alt="Sameer Faridi"/><br /><sub><b>Sameer Faridi</b></sub></a><br /><a href="https://github.com/chetannada/Namaste-React/commits?author=sameerkali" title="Documentation">📖</a></td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/shanmukhipriya99"><img src="https://avatars.githubusercontent.com/u/37501487?v=4?s=100" width="100px;" alt="Shanmukhi Priya"/><br /><sub><b>Shanmukhi Priya</b></sub></a><br /><a href="https://github.com/chetannada/Namaste-React/commits?author=shanmukhipriya99" title="Documentation">📖</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/prathmesh-cpu"><img src="https://avatars.githubusercontent.com/u/56761941?v=4?s=100" width="100px;" alt="Prathamesh Dhavale"/><br /><sub><b>Prathamesh Dhavale</b></sub></a><br /><a href="https://github.com/chetannada/Namaste-React/commits?author=prathmesh-cpu" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://vivekanand-vr.netlify.app"><img src="https://avatars.githubusercontent.com/u/116813193?v=4?s=100" width="100px;" alt="Vivekanand Vernekar"/><br /><sub><b>Vivekanand Vernekar</b></sub></a><br /><a href="https://github.com/chetannada/Namaste-React/commits?author=vivekanand-vr" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://bio.link/akshad_jaiswal"><img src="https://avatars.githubusercontent.com/u/111684658?v=4?s=100" width="100px;" alt="Akshad Jaiswal"/><br /><sub><b>Akshad Jaiswal</b></sub></a><br /><a href="https://github.com/chetannada/Namaste-React/commits?author=akshadjaiswal" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://ayantunjitimilehin.com/"><img src="https://avatars.githubusercontent.com/u/39725296?v=4?s=100" width="100px;" alt="Ayantunji Timilehin"/><br /><sub><b>Ayantunji Timilehin</b></sub></a><br /><a href="https://github.com/chetannada/Namaste-React/commits?author=timmy471" title="Documentation">📖</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Bharat2044"><img src="https://avatars.githubusercontent.com/u/104676718?v=4?s=100" width="100px;" alt="Bharat Kumar"/><br /><sub><b>Bharat Kumar</b></sub></a><br /><a href="https://github.com/chetannada/Namaste-React/commits?author=Bharat2044" title="Code">💻</a> <a href="https://github.com/chetannada/Namaste-React/pulls?q=is%3Apr+reviewed-by%3ABharat2044" title="Reviewed Pull Requests">👀</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://harshvaidya.netlify.app/"><img src="https://avatars.githubusercontent.com/u/107319669?v=4?s=100" width="100px;" alt="Harsh  Vaidya"/><br /><sub><b>Harsh  Vaidya</b></sub></a><br /><a href="https://github.com/chetannada/Namaste-React/commits?author=harsh432004" title="Code">💻</a> <a href="#research-harsh432004" title="Research">🔬</a></td>
-    </tr>
-  </tbody>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind are welcome!
-
----
-
-### 💖 Many many Thanks to all the `Stargazers` who has supported this project with stars 🌟
-
-[![Stargazers repo roster for @chetannada/Namaste-React](https://reporoster.com/stars/chetannada/Namaste-React)](https://github.com/chetannada/Namaste-React/stargazers)
-
----
-
-### 💖 Many many Thanks to all the `Forkers` who has supported this project with forks 🍴
-
-[![Forkers repo roster for @chetannada/Namaste-React](https://reporoster.com/forks/chetannada/Namaste-React)](https://github.com/chetannada/Namaste-React/network/members)
+<img width="1920" height="1080" alt="Screenshot 2025-09-10 024840" src="https://github.com/user-attachments/assets/045d8def-5a6b-4f27-bc27-7712525ca021" />
 
 
-## 🤝 Let's Connect
+### Login Page
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetannada/)
-[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chetannada)
-[![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/916005177838956555)
+<img width="1920" height="1080" alt="Screenshot 2025-09-10 024903" src="https://github.com/user-attachments/assets/42b78cc4-be4b-418b-aa30-982c5810de5c" />
+
+
+
+# 🙏 [Namaste React🚀](https://namastedev.com/learn/namaste-react) From Zero to Hero🔥 by Akshay Saini
+#### This repository contains a `Collection of Assignments, Assignment Solution & Handwritten Notes`, which help you understand the concepts of React.js.
+
+## 📕 [Chapter 01 - Inception](./01-Inception)
+- 📖 [Assignment](./01-Inception/Theory/01%20-%20Assignment.md)
+- 📝 [Theory Assignment Solution](./01-Inception/Theory/01%20-%20Assignment%20Soln.md)
+- 💻 [Lecture Source Code](./01-Inception/Codes)
+- ✍️ [Hand Written Notes](./01-Inception/Handwritten%20notes/episode%201%20-%20Inception%20.pdf) - 📥[Gdrive Download link](https://drive.google.com/file/d/1HddNgwFHjbqO8vUBQBJO72_1vhFe__vw/view?usp=drive_link)
+
+
+## 📕 [Chapter 02 - Igniting Our App](./02-Igniting%20our%20App)
+- 📖 [Assignment](./02-Igniting%20our%20App/Theory/02%20-%20Assignment.md)
+- 📝 [Theory Assignment Solution](./02-Igniting%20our%20App/Theory/02%20-%20Assignment%20Soln.md)
+- 💻 [Lecture Source Code](./02-Igniting%20our%20App/Codes)
+- ✍️ [Hand Written Notes](./02-Igniting%20our%20App/Handwritten%20Notes/02%20-%20Igniting%20our%20App.pdf) - 📥[Gdrive Download link](https://drive.google.com/file/d/1i35tfOcvTfp2dR7owyWLyR6KYQHn3D6L/view?usp=sharing)
+
+
+## 📕 [Chapter 03 - Laying the Foundation](./03-Laying%20the%20Foundation)
+- 📖 [Assignment](./03-Laying%20the%20Foundation/Theory/03%20-%20Assignment.md)
+- 📝 [Theory Assignment Solution](./03-Laying%20the%20Foundation/Theory/03%20-%20Assignment%20Soln.md)
+- 💻 [Lecture Source Code](./03-Laying%20the%20Foundation/Codes)
+- ✍️ [Hand Written Notes](./03-Laying%20the%20Foundation/Handwitten%20Notes/3%20-%20Laying%20the%20Foundation%20.pdf) - 📥[Gdrive Download link](https://drive.google.com/file/d/1IEZ9McVlgK0xM1LT0ydXs_JgrbGtiDmg/view?usp=sharing)
+
+
+## 📕 [Chapter 04 - Talk is Cheap, Show me the Code](./04-Talk%20is%20cheap%2C%20show%20me%20the%20code)
+- 📖 [Assignment](./04-Talk%20is%20cheap,%20show%20me%20the%20code/Theory/04%20-%20Assignment.md)
+- 📝 [Theory Assignment Solution](./04-Talk%20is%20cheap%2C%20show%20me%20the%20code/Theory/04%20-%20Assignment%20Soln.md)
+- 💻 [Lecture Source Code](./04-Talk%20is%20cheap%2C%20show%20me%20the%20code/Codes)
+- ✍️ [Hand Written Notes](./04-Talk%20is%20cheap%2C%20show%20me%20the%20code/Handwritten%20Notes/4%20-%20Talk%20is%20cheap%20%2C%20show%20me%20the%20code.pdf) - 📥[Gdrive Download link](https://drive.google.com/file/d/1IYJgVw3SKSF9Az8IKYrb8u_tZaiuL3ay/view?usp=drive_link)
+
+
+## 📕 [Chapter 05 - Let's get Hooked](./05-Let's%20get%20Hooked)
+- 📖 [Assignment](./05-Let's%20get%20Hooked/Theory/5%20-%20Assignment.md)
+- 📝 [Theory Assignment Solution](./05-Let's%20get%20Hooked/Theory/5%20-%20Assignment%20Soln.md)
+- 💻 [Lecture Source Code](./05-Let's%20get%20Hooked/Codes)
+- ✍️ [Hand Written Notes](./05-Let's%20get%20Hooked/Handwritten%20Notes/Ep%2005%20-%20Let's%20get%20Hooked%20.pdf) - 📥[Gdrive Download link](https://drive.google.com/file/d/1ImDghzKMBpe5TXZ5VPpGyhS-Y84UWDJi/view?usp=drive_link)
+
+
+## 📕 [Chapter 06 - Exploring the World](./06-Exploring%20the%20World)
+- 📖 [Assignment](./06-Exploring%20the%20World/Theory/06%20-%20Assignment.md)
+- 📝 [Theory Assignment Solution](./06-Exploring%20the%20World/Theory/06%20-%20Assignment%20Soln.md)
+- 💻 [Lecture Source Code](./06-Exploring%20the%20World/Codes)
+- ✍️ [Hand Written Notes](./06-Exploring%20the%20World/Handwritten%20Notes/6%20-%20Exploring%20the%20World%20.pdf) - 📥[Gdrive Download link](https://drive.google.com/file/d/1J4Jnpkd-RSBW8V1ONKBbXvRYqm5bcl_6/view?usp=drive_link)
+
+
+## 📕 [Chapter 07 - Finding the path](./07-Finding%20the%20Path)
+- 📖 [Assignment](./07-Finding%20the%20Path/Thoery/7%20-%20Assignment.md)
+- 📝 [Theory Assignment Solution](./07-Finding%20the%20Path/Thoery/7%20-%20Assignment%20Soln.md)
+- 💻 [Lecture Source Code](./07-Finding%20the%20Path/Codes)
+- ✍️ [Hand Written Notes](./07-Finding%20the%20Path/Handwritten%20Notes/07-Finding%20the%20path%20.pdf) - 📥[Gdrive Download link](https://drive.google.com/file/d/1L8TStcRexo78KPMN4nN4MVU9TZQmnYlq/view?usp=drive_link)
+
+
+## 📕 [Chapter 08 - Let's get Classy](./08-Let's%20get%20classy)
+- 📖 [Assignment](./08-Let's%20get%20classy/Theory/08%20-%20Asssigment.md)
+- 📝 [Theory Assignment Solution](./08-Let's%20get%20classy/Theory/08%20-%20Assignment%20Soln.md)
+- 💻 [Lecture Source Code](./08-Let's%20get%20classy/Codes)
+- ✍️ [Hand Written Notes](./08-Let's%20get%20classy/Handwritten%20Notes/8-%20Let's%20get%20Classy.pdf) - 📥[Gdrive Download link](https://drive.google.com/file/d/1LYOvGPfun_K1qBX2sATKrNQhovPN0OCU/view?usp=drive_link)
+
+## 📕 [Chapter 09 - Optimizing Our App](./09-Optimizing%20our%20App)
+- 📖 [Assignment](./09-Optimizing%20our%20App/Theory/09%20-%20Assignment.md)
+- 📝 [Theory Assignment Solution](./09-Optimizing%20our%20App/Theory/09%20-%20Assignment%20Soln.md)
+- 💻 [Lecture Source Code](./09-Optimizing%20our%20App/Codes)
+- ✍️ [Hand Written Notes](./09-Optimizing%20our%20App/Handwritten%20Notes/9-Optimizing%20our%20App.pdf) - 📥[Gdrive Download link](https://drive.google.com/file/d/1MdCpLWLxvOsAS5UmerFJ2NGvENEtrkDC/view?usp=sharing)
+
+
+## 📕 [Chapter 10 - Jo dikhta hai, vo bikta hai](./10-Jo%20dhilkta%20hai%2C%20vo%20bikta%20hai)
+- 💻 [Lecture Source Code](./10-Jo%20dhilkta%20hai%2C%20vo%20bikta%20hai/Codes)
+- ✍️ [Hand Written Notes](./10-Jo%20dhilkta%20hai%2C%20vo%20bikta%20hai/Handwritten%20Notes/10-Jo%20dikhta%20hai%2C%20vo%20bikta%20hai.pdf) - 📥[Gdrive Download link](https://drive.google.com/file/d/1NBnfKeF-orekiHEEdWqmcFP-DKIDSd0k/view?usp=sharing)
+ 
+
+## 📕 [Chapter 11 - Data is the new Oil](./11-Data%20is%20the%20new%20Oil)
+- 📖 [Assignment](./11-Data%20is%20the%20new%20Oil/Theory/11%20-%20Assignment.md)
+- 📝 [Theory Assignment Solution](./11-Data%20is%20the%20new%20Oil/Theory/11%20-Assignment%20Soln.md)
+- 💻 [Lecture Source Code](./11-Data%20is%20the%20new%20Oil/Codes)
+- ✍️ [Hand Written Notes](./11-Data%20is%20the%20new%20Oil/Handwriten%20Notes/11-Data%20is%20the%20new%20oil.pdf) - 📥[Gdrive Download link](https://drive.google.com/file/d/1Nsj6R9QV-gSnWwCTszg6w1Ath1Z6lWk0/view?usp=sharing)
+
+## 📕 [Chapter 12 - Let's build our Store](./12-Let's%20build%20our%20Store)
+- 📖 [Assignment](./12-Let's%20build%20our%20Store/Theory/12%20-%20Assignment.md)
+- 📝 [Theory Assignment Solution](./12-Let's%20build%20our%20Store/Theory/12%20-%20Assignment%20Soln.md)
+- 💻 [Lecture Source Code](./12-Let's%20build%20our%20Store/Codes)
+- ✍️ [Hand Written Notes](./12-Let's%20build%20our%20Store/Handwritten%20Notes/12-Let's%20build%20our%20Store.pdf) - 📥[Gdrive Download link](https://drive.google.com/file/d/1OUKRnWFSy_9GmHC7TJWcuW38smtzx_pP/view?usp=sharing)
+
+## 📕 [Chapter 13 - Time for the Testing](./13-Time%20for%20the%20Testing)
+- 📖 [Assignment](./13-Time%20for%20the%20Testing/Theory/13%20-%20Assignment.md)
+- 📝 [Theory Assignment Solution](./13-Time%20for%20the%20Testing/Theory/13%20-Assignmnet%20Soln.md)
+- 💻 [Lecture Source Code](./13-Time%20for%20the%20Testing/Codes)
+- ✍️ [Hand Written Notes](./13-Time%20for%20the%20Testing/Handwritten%20Notes/13-Time%20for%20the%20Test.pdf) - 📥[Gdrive Download link](https://drive.google.com/file/d/1PFNCSCuGLLg_aqP7WXYNFxgsdqM80l-C/view?usp=sharing)
+
+
+## Team
+NIT © [Sairus Varma ](https://github.com/SAIRUSVARMA)
